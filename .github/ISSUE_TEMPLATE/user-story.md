@@ -3,7 +3,7 @@ name: User Story
 about: Template for a new user story
 title: ''
 labels: ''
-assignees: dawilliams0727
+assignees: Aramayis
 
 ---
 
